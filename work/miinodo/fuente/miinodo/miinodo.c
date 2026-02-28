@@ -1,4 +1,5 @@
 #include "miinodo.h"
+#include <string.h>
 
 int miinodo(char *nombre,char *archivo)
 {

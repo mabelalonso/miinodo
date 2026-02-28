@@ -6,5 +6,6 @@
 #include <errno.h>
 #include <unistd.h>
 #include <dirent.h>
+#include <string.h>
 int miinodo(char *,char *);
 

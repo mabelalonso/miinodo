@@ -1,5 +1,5 @@
-#!/bin/ksh
-#Shell Script de compilación de miinodo
+#!/bin/bash
+#Shell Script de compilaciï¿½n de miinodo
 ACTUAL=$PWD
 cd ../../bin 
 BIN=`pwd`
