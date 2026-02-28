@@ -1,6 +1,6 @@
-services:
+﻿services:
   server:
-    container_name: cubiculos
+    container_name: miinodo
     build: .
     tty: true
     stdin_open: true
